@@ -1,0 +1,120 @@
+ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,"Owner Occupied",2019,"2019",77274381,377633,"United States","01000US","united-states",0.6399214141224628
+0,"Owner Occupied",2019,"2019",5058841,30826,"Florida","04000US12","florida",0.6539086911061357
+0,"Owner Occupied",2019,"2019",451932,4330,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5115987375646953
+0,"Owner Occupied",2019,"2019",1731,244,"Brownsville, FL","16000US1209000","brownsville-fl",0.32067432382363836
+0,"Owner Occupied",2019,"2019",11373,590,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6346186038725518
+0,"Owner Occupied",2019,"2019",5018,260,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6719335832886985
+0,"Owner Occupied",2019,"2019",602,109.99999999999999,"El Portal, FL","16000US1220650","el-portal-fl",0.8292011019283747
+0,"Owner Occupied",2019,"2019",172,82,"Fisher Island, FL","16000US1222375","fisher-island-fl",0.8730964467005076
+0,"Owner Occupied",2019,"2019",1208,160,"Gladeview, FL","16000US1225987","gladeview-fl",0.3010216795414902
+0,"Owner Occupied",2019,"2019",34067,1103,"Hialeah, FL","16000US1230000","hialeah-fl",0.45691331697045295
+0,"Owner Occupied",2019,"2019",52411,1480,"Miami, FL","16000US1245000","miami-fl",0.29648087703717113
+0,"Owner Occupied",2019,"2019",15856,660,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.3659696256289526
+0,"Owner Occupied",2019,"2019",2862,232.99999999999997,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.88854393045638
+0,"Owner Occupied",2019,"2019",1082,182,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.31842260153031193
+0,"Owner Occupied",2019,"2019",5780,417,"West Little River, FL","16000US1276487","west-little-river-fl",0.605679555695274
+0,"Owner Occupied",2019,"2019",1443,192,"West Miami, FL","16000US1276525","west-miami-fl",0.5482522796352584
+0,"Owner Occupied",2019,"2019",1262225,8683,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.5932855060617612
+0,"Owner Occupied",2018,"2018",76444810,367132,"United States","01000US","united-states",0.6384759732320674
+0,"Owner Occupied",2018,"2018",4954601,29239,"Florida","04000US12","florida",0.6500599599042741
+0,"Owner Occupied",2018,"2018",449056,4208,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5161260661731324
+0,"Owner Occupied",2018,"2018",1700,225.99999999999997,"Brownsville, FL","16000US1209000","brownsville-fl",0.31942878617061254
+0,"Owner Occupied",2018,"2018",11402,479,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6398428731762065
+0,"Owner Occupied",2018,"2018",5024,267,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6770889487870619
+0,"Owner Occupied",2018,"2018",598,93,"El Portal, FL","16000US1220650","el-portal-fl",0.7746113989637305
+0,"Owner Occupied",2018,"2018",53,54,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2018,"2018",1152,160,"Gladeview, FL","16000US1225987","gladeview-fl",0.2906888720666162
+0,"Owner Occupied",2018,"2018",33302,867,"Hialeah, FL","16000US1230000","hialeah-fl",0.4580553759817339
+0,"Owner Occupied",2018,"2018",50887,1472,"Miami, FL","16000US1245000","miami-fl",0.2975221590776211
+0,"Owner Occupied",2018,"2018",16708,660,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.37730054422690423
+0,"Owner Occupied",2018,"2018",2897,216,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.8881054567749846
+0,"Owner Occupied",2018,"2018",1157,225,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.3359465737514518
+0,"Owner Occupied",2018,"2018",5507,353,"West Little River, FL","16000US1276487","west-little-river-fl",0.5766492146596859
+0,"Owner Occupied",2018,"2018",1406,190,"West Miami, FL","16000US1276525","west-miami-fl",0.5734094616639478
+0,"Owner Occupied",2018,"2018",1248511,8254,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.5944285608861359
+0,"Owner Occupied",2017,"2017",75833135,358989,"United States","01000US","united-states",0.6381868060589238
+0,"Owner Occupied",2017,"2017",4868827,29492,"Florida","04000US12","florida",0.648236385553654
+0,"Owner Occupied",2017,"2017",448011,4291,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5219815237058846
+0,"Owner Occupied",2017,"2017",1675,185,"Brownsville, FL","16000US1209000","brownsville-fl",0.3221773417964993
+0,"Owner Occupied",2017,"2017",11312,536,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6347923681257015
+0,"Owner Occupied",2017,"2017",5109,250.99999999999997,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.7008230452674897
+0,"Owner Occupied",2017,"2017",536,86,"El Portal, FL","16000US1220650","el-portal-fl",0.6828025477707006
+0,"Owner Occupied",2017,"2017",39,48,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2017,"2017",1162,146,"Gladeview, FL","16000US1225987","gladeview-fl",0.3069202324352879
+0,"Owner Occupied",2017,"2017",32633,930,"Hialeah, FL","16000US1230000","hialeah-fl",0.45501192152707093
+0,"Owner Occupied",2017,"2017",49823,1267,"Miami, FL","16000US1245000","miami-fl",0.30244515400585187
+0,"Owner Occupied",2017,"2017",16621,698,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.3737155705452501
+0,"Owner Occupied",2017,"2017",2919,186,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.8926605504587156
+0,"Owner Occupied",2017,"2017",1139,155,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.32673551348250146
+0,"Owner Occupied",2017,"2017",5543,347,"West Little River, FL","16000US1276487","west-little-river-fl",0.6006718682271348
+0,"Owner Occupied",2017,"2017",1292,193,"West Miami, FL","16000US1276525","west-miami-fl",0.5619834710743802
+0,"Owner Occupied",2017,"2017",1241468,9052,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.5975180342954833
+0,"Owner Occupied",2016,"2016",74881068,360470,"United States","01000US","united-states",0.6361150331368476
+0,"Owner Occupied",2016,"2016",4787320,29348,"Florida","04000US12","florida",0.6475247326552204
+0,"Owner Occupied",2016,"2016",449174,3843,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5261965455516715
+0,"Owner Occupied",2016,"2016",1586,194,"Brownsville, FL","16000US1209000","brownsville-fl",0.3104933437744714
+0,"Owner Occupied",2016,"2016",11267,513,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6266407119021135
+0,"Owner Occupied",2016,"2016",5113,254,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6954570184983678
+0,"Owner Occupied",2016,"2016",569,88,"El Portal, FL","16000US1220650","el-portal-fl",0.681437125748503
+0,"Owner Occupied",2016,"2016",42,70,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2016,"2016",1090,137,"Gladeview, FL","16000US1225987","gladeview-fl",0.28797886393659183
+0,"Owner Occupied",2016,"2016",32184,842,"Hialeah, FL","16000US1230000","hialeah-fl",0.4569643617776516
+0,"Owner Occupied",2016,"2016",49344,1309,"Miami, FL","16000US1245000","miami-fl",0.30533708734259457
+0,"Owner Occupied",2016,"2016",16425,689,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.37169042769857435
+0,"Owner Occupied",2016,"2016",3034,159,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.88765359859567
+0,"Owner Occupied",2016,"2016",1144,153,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.35049019607843135
+0,"Owner Occupied",2016,"2016",5426,316,"West Little River, FL","16000US1276487","west-little-river-fl",0.596657136573565
+0,"Owner Occupied",2016,"2016",1284,171,"West Miami, FL","16000US1276525","west-miami-fl",0.5868372943327239
+0,"Owner Occupied",2016,"2016",1241064,8313,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.6009526618021549
+0,"Owner Occupied",2015,"2015",74712091,353420,"United States","01000US","united-states",0.6389673478521365
+0,"Owner Occupied",2015,"2015",4765260,29991,"Florida","04000US12","florida",0.6527311713426516
+0,"Owner Occupied",2015,"2015",452826,4230,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5377003941089089
+0,"Owner Occupied",2015,"2015",1668,200,"Brownsville, FL","16000US1209000","brownsville-fl",0.3411042944785276
+0,"Owner Occupied",2015,"2015",11445,448,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6374624039211317
+0,"Owner Occupied",2015,"2015",5025,265,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6865692034430934
+0,"Owner Occupied",2015,"2015",555,103,"El Portal, FL","16000US1220650","el-portal-fl",0.6285390713476784
+0,"Owner Occupied",2015,"2015",41,67,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2015,"2015",1005,148,"Gladeview, FL","16000US1225987","gladeview-fl",0.28325817361894023
+0,"Owner Occupied",2015,"2015",32724,890,"Hialeah, FL","16000US1230000","hialeah-fl",0.47276036926277465
+0,"Owner Occupied",2015,"2015",48735,1402,"Miami, FL","16000US1245000","miami-fl",0.3097294514671395
+0,"Owner Occupied",2015,"2015",15876,664,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.36693939814172793
+0,"Owner Occupied",2015,"2015",2902,216,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.8929230769230769
+0,"Owner Occupied",2015,"2015",1093,186,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.33954644299471887
+0,"Owner Occupied",2015,"2015",5233,298,"West Little River, FL","16000US1276487","west-little-river-fl",0.5856743144935647
+0,"Owner Occupied",2015,"2015",1144,168,"West Miami, FL","16000US1276525","west-miami-fl",0.5624385447394297
+0,"Owner Occupied",2015,"2015",1248038,8827,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.6096787462103855
+0,"Owner Occupied",2014,"2014",74787460,343068,"United States","01000US","united-states",0.6435483800462007
+0,"Owner Occupied",2014,"2014",4772944,29238,"Florida","04000US12","florida",0.6613008257143601
+0,"Owner Occupied",2014,"2014",458132,4035.9999999999995,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5496214343385628
+0,"Owner Occupied",2014,"2014",1724,168,"Brownsville, FL","16000US1209000","brownsville-fl",0.36963979416809606
+0,"Owner Occupied",2014,"2014",11301,515,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6421387578839707
+0,"Owner Occupied",2014,"2014",5060,327,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6774668630338734
+0,"Owner Occupied",2014,"2014",544,100,"El Portal, FL","16000US1220650","el-portal-fl",0.6642246642246642
+0,"Owner Occupied",2014,"2014",44,68,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2014,"2014",1281,160,"Gladeview, FL","16000US1225987","gladeview-fl",0.36620926243567753
+0,"Owner Occupied",2014,"2014",33414,874.0000000000001,"Hialeah, FL","16000US1230000","hialeah-fl",0.4851186155230988
+0,"Owner Occupied",2014,"2014",48273,1388,"Miami, FL","16000US1245000","miami-fl",0.3164923782986396
+0,"Owner Occupied",2014,"2014",15683,638,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.3592898052691867
+0,"Owner Occupied",2014,"2014",2900,231,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.8534432018834609
+0,"Owner Occupied",2014,"2014",1148,206,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.35908664372849547
+0,"Owner Occupied",2014,"2014",5487,331,"West Little River, FL","16000US1276487","west-little-river-fl",0.6077084948499281
+0,"Owner Occupied",2014,"2014",1208,172,"West Miami, FL","16000US1276525","west-miami-fl",0.592447278077489
+0,"Owner Occupied",2014,"2014",1260569,8400,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.620710658798689
+0,"Owner Occupied",2013,"2013",75075700,345645,"United States","01000US","united-states",0.649386382947334
+0,"Owner Occupied",2013,"2013",4806997,29484.000000000004,"Florida","04000US12","florida",0.6714639515685196
+0,"Owner Occupied",2013,"2013",461562,4046,"Miami-Dade County, FL","05000US12086","miami-dade-county-fl",0.5574211593527295
+0,"Owner Occupied",2013,"2013",1813,184,"Brownsville, FL","16000US1209000","brownsville-fl",0.3943018703784254
+0,"Owner Occupied",2013,"2013",11356,539,"Coral Gables, FL","16000US1214250","coral-gables-fl",0.6588535623114412
+0,"Owner Occupied",2013,"2013",4938,350,"Coral Terrace, FL","16000US1214412","coral-terrace-fl",0.6657678306592962
+0,"Owner Occupied",2013,"2013",653,89,"El Portal, FL","16000US1220650","el-portal-fl",0.7867469879518072
+0,"Owner Occupied",2013,"2013",44,71,"Fisher Island, FL","16000US1222375","fisher-island-fl",1
+0,"Owner Occupied",2013,"2013",1370,191,"Gladeview, FL","16000US1225987","gladeview-fl",0.39906787066705507
+0,"Owner Occupied",2013,"2013",35471,858,"Hialeah, FL","16000US1230000","hialeah-fl",0.5030277245976034
+0,"Owner Occupied",2013,"2013",49572,1403,"Miami, FL","16000US1245000","miami-fl",0.32834792745770797
+0,"Owner Occupied",2013,"2013",16154,820,"Miami Beach, FL","16000US1245025","miami-beach-fl",0.37296823051348355
+0,"Owner Occupied",2013,"2013",2935,280,"Miami Shores, FL","16000US1245175","miami-shores-fl",0.8477758521086077
+0,"Owner Occupied",2013,"2013",1173,204,"North Bay Village, FL","16000US1249225","north-bay-village-fl",0.3890547263681592
+0,"Owner Occupied",2013,"2013",5548,309,"West Little River, FL","16000US1276487","west-little-river-fl",0.6023887079261672
+0,"Owner Occupied",2013,"2013",1199,141,"West Miami, FL","16000US1276525","west-miami-fl",0.610178117048346
+0,"Owner Occupied",2013,"2013",1273033,8549,"Miami-Fort Lauderdale-West Palm Beach, FL","31000US33100","miami-fort-lauderdale-west-palm-beach-fl",0.630996542248411
