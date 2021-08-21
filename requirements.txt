@@ -1,0 +1,25 @@
+Python libraries necessary for this project:
+
+### Python required
+pandas
+scipy
+numpy
+math
+
+### General
+sys
+tqdm (not required, but used)
+warnings
+
+### Visualization libraries
+folium
+altair
+seaborn
+matplotlib (with pyplot)
+topojson
+geopandas
+rtree
+
+### Model Development
+sklearn
+xgboost
